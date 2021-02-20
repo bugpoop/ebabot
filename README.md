@@ -1,9 +1,9 @@
 # ebabot
-EBA derslerine otomatik girecek bir program.
+Öğrenciler için EBA canlı derslerine otomatik giriş yapacak bir program.
 
 # KURULUM
 
-Releases kısmındaki dosyayı indirip, ayıklayıp içindeki EBABOT.exe uygulamasını açın. Masaüstüne bir kısayol eklemeniz tavsiye edilir.
+Bu yazılımı kurmak için releases kısmındaki dosyayı indirip, ayıklayıp içindeki EBABOT.exe uygulamasını açın. Masaüstüne bir kısayol eklemeniz tavsiye edilir.
 
 # KULLANIM
 
